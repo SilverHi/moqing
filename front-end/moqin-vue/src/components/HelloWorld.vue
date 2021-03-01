@@ -4,8 +4,6 @@
       <button class="button">点击跳转</button>
     </router-link>
 
-
-
     <el-row>
       <el-col :span="24"><div class="grid-content bg-purple-dark"></div></el-col>
     </el-row>
